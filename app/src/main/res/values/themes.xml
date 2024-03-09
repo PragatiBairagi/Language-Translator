@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- Light Theme -->
+    <style name="Base.Theme.Translator.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your light theme here -->
+        <item name="colorPrimary">#3A8F59</item>
+        <item name="colorPrimaryDark">#3A8F59</item>
+    </style>
+
+    <!-- Light Theme for Translator -->
+    <style name="Theme.Translator.Light" parent="Base.Theme.Translator.Light">
+        <!-- Customize your Translator light theme here if needed -->
+    </style>
+
+
+</resources>

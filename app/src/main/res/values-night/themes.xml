@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme.MaterialTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your dark theme here -->
+        <item name="colorPrimary">#3A8F59</item>
+        <item name="colorPrimaryDark">#3A8F59</item>
+    </style>
+
+    <style name="Theme.Translator" parent="Base.Theme.Translator.Light">
+    </style>
+</resources>
